@@ -57,12 +57,18 @@
         align-items: center;
     }
     .elLogo{
-        width: 40vw;
+        width: 45vw;
     }
     .info{
-        width: 30vw;
+        width: 35vw;
     }
     .elliBody{
-        font-size: 3vw;
+        font-size: 4vw;
+    }
+    .logoInfo{
+        width: 12vw;
+    }
+    .elliTitle{
+        font-size: 5vw;
     }
 }
