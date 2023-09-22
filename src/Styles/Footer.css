@@ -1,0 +1,22 @@
+.footer{
+    background-color: #6669;
+    padding: 2vh;
+}
+.logoFoot{
+    width: 10%;
+}
+.redes{
+    width: 15%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    color: #444;
+    margin-bottom: 1%;
+    font-size: 3vh;
+}
+.iconRed{
+transition: all .5s;
+}
+.iconRed:hover{
+    transform: scale(1.5);
+}

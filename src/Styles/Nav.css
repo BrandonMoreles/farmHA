@@ -1,0 +1,24 @@
+.options{
+    display: flex;
+    width: 35%;
+    justify-content: space-between;
+    margin: auto 0;
+    font-size: 100%;
+}
+.option{
+    all: unset;
+    cursor: pointer;
+}
+@media (max-width: 1400px) {
+    .options{
+        width:70% ;
+    }
+
+}
+@media (max-width: 700px) {
+    .options{
+
+        font-size: 50%;
+    }
+    
+}
