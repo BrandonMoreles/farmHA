@@ -3,7 +3,7 @@
     padding: 2vh;
 }
 .logoFoot{
-    width: 10%;
+    width: 20vw;
 }
 .redes{
     width: 15%;
@@ -19,4 +19,16 @@ transition: all .5s;
 }
 .iconRed:hover{
     transform: scale(1.5);
+}
+@media(max-width:700px){
+    .logoFoot{
+        width: 35vw;
+    }
+    .redes{
+        width: 50%;
+        
+    }
+    .copy{
+        font-size: 2vw;
+    }
 }

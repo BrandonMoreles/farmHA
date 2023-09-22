@@ -16,7 +16,7 @@ export const Footer = () => {
             <FontAwesomeIcon icon={faTwitter} className='iconRed' />
         </div>
     <img src={logoBw}className='logoFoot'></img>
-    <p>Todos los derechos reservados ©</p>
+    <p className='copy'>Todos los derechos reservados ©</p>
     </div>
   );
 };
