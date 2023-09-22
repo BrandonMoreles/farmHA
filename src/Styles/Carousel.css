@@ -52,4 +52,13 @@
   .position-dot.active {
     background-color: #333;
   }
-  
+  @media(max-width:900px){
+      .carousel{
+        height: 40vh;
+      }
+  }
+  @media(max-width:400px){
+    .carousel{
+      height: 30vh;
+    }
+}
