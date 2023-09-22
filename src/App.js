@@ -17,7 +17,7 @@ function App() {
       <Carousel images={images}/>
       <Inicio/>
       <Footer/>
-      <MyMapComponent apiKey={"AIzaSyAIOtkdFd2fwksqT9YMa5pGRVn2nYSQTQ8"}/>
+   
     </div>
   );
 }
