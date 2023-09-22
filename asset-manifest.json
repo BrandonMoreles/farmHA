@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/farmHA/static/css/main.ff011af9.css",
-    "main.js": "/farmHA/static/js/main.870b86ac.js",
+    "main.js": "/farmHA/static/js/main.faa88d1e.js",
     "static/media/elliseo4.png": "/farmHA/static/media/elliseo4.430246d6f4027e51266a.png",
     "static/media/elliseo.png": "/farmHA/static/media/elliseo.ef414d289652d851e66d.png",
     "static/media/image1.jpg": "/farmHA/static/media/image1.e2b4df6691beb0f55278.jpg",
@@ -13,10 +13,10 @@
     "static/media/Logo.jpg": "/farmHA/static/media/Logo.8d8df4fcb782c238bb78.jpg",
     "index.html": "/farmHA/index.html",
     "main.ff011af9.css.map": "/farmHA/static/css/main.ff011af9.css.map",
-    "main.870b86ac.js.map": "/farmHA/static/js/main.870b86ac.js.map"
+    "main.faa88d1e.js.map": "/farmHA/static/js/main.faa88d1e.js.map"
   },
   "entrypoints": [
     "static/css/main.ff011af9.css",
-    "static/js/main.870b86ac.js"
+    "static/js/main.faa88d1e.js"
   ]
 }
