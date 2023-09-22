@@ -64,11 +64,16 @@
     }
     .elliBody{
         font-size: 4vw;
+        padding: 10%;
     }
     .logoInfo{
-        width: 12vw;
+        width: 16vw;
     }
     .elliTitle{
         font-size: 5vw;
+    }
+    .slogan{
+        font-size: 6vw;
+      
     }
 }
